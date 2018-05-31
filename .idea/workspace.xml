@@ -218,7 +218,7 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="170" />
     <option name="y" value="91" />
     <option name="width" value="1026" />
@@ -316,15 +316,15 @@
       <option name="presentableId" value="Default" />
       <updated>1527578548012</updated>
       <workItem from="1527578550097" duration="19185000" />
-      <workItem from="1527629519818" duration="34828000" />
+      <workItem from="1527629519818" duration="35425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54013000" />
+    <option name="totallyTimeSpent" value="54610000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21156661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
