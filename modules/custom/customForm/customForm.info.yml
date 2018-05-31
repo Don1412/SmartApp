@@ -1,0 +1,5 @@
+name: customForm
+type: module
+description: Custom Form
+core: 8.x
+package: Custom

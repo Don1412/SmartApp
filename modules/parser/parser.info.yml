@@ -1,0 +1,5 @@
+name: Parser
+type: module
+description: Parser
+core: 8.x
+package: Custom

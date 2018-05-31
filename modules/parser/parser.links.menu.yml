@@ -1,0 +1,6 @@
+parser.admin_settings_form:
+  title: 'Parser bitcoin-zone configuration'
+  route_name: parser.admin_settings_form
+  description: 'Parser bitcoin-zone'
+  parent: system.admin_config_system
+  weight: 99

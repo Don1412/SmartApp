@@ -1,0 +1,7 @@
+sendMail.form:
+  path: '/customForm'
+  defaults:
+    _form: '\Drupal\customForm\Form\CustomForm'
+    _title: 'Custom Form'
+  requirements:
+      _permission: 'access content'
